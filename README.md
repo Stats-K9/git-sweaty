@@ -185,3 +185,4 @@ Optional but recommended for automatic Garmin token rotation:
 5. Confirm `Deploy Pages` runs (automatically after a successful sync).
 6. Open your dashboard at:
    - `https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO_NAME/`
+
