@@ -9330,6 +9330,13 @@
       "subtype": "trail_running",
       "type": "TrailRun",
       "year": 2026
+    },
+    {
+      "date": "2026-08-18",
+      "hour": 19,
+      "subtype": "trail_running",
+      "type": "TrailRun",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -20340,6 +20347,15 @@
           "distance": 11139.8701171875,
           "elevation_gain": 170.37999999523163,
           "moving_time": 4641.164001464844
+        },
+        "2026-08-18": {
+          "activity_ids": [
+            "24027928952"
+          ],
+          "count": 1,
+          "distance": 6084.009765625,
+          "elevation_gain": 55.15999999642372,
+          "moving_time": 2203.0
         }
       },
       "WeightTraining": {
@@ -20529,7 +20545,7 @@
       }
     }
   },
-  "generated_at": "2026-08-18T16:01:54.620374+00:00",
+  "generated_at": "2026-08-19T16:02:44.493234+00:00",
   "other_bucket": "OtherSports",
   "repo": "Stats-K9/git-sweaty",
   "source": "garmin",
