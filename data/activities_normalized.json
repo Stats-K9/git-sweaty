@@ -17338,5 +17338,18 @@
     "start_date_local": "2026-08-18T19:59:26",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-08-23",
+    "distance": 52297.37109375,
+    "elevation_gain": 1793.1700000017881,
+    "id": "24087008844",
+    "moving_time": 25832.815002441406,
+    "name": "Weymouth and Portland Trail Running",
+    "raw_activity_type": "trail_running",
+    "raw_type": "trail_running",
+    "start_date_local": "2026-08-23T08:20:00",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
