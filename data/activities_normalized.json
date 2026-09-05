@@ -17390,5 +17390,18 @@
     "start_date_local": "2026-09-02T18:25:01",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-05",
+    "distance": 5036.6298828125,
+    "elevation_gain": 10.340000003576279,
+    "id": "24243362158",
+    "moving_time": 1326.3580102920532,
+    "name": "Poole Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-09-05T09:01:53",
+    "type": "Run",
+    "year": 2026
   }
 ]
