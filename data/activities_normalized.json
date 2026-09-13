@@ -17455,5 +17455,18 @@
     "start_date_local": "2026-09-11T08:37:37",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-09-13",
+    "distance": 12989.3896484375,
+    "elevation_gain": 121.60000002384186,
+    "id": "24345207517",
+    "moving_time": 4341.0,
+    "name": "New Forest Trail Running",
+    "raw_activity_type": "trail_running",
+    "raw_type": "trail_running",
+    "start_date_local": "2026-09-13T10:41:06",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
