@@ -17481,5 +17481,18 @@
     "start_date_local": "2026-09-15T06:49:57",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-09-16",
+    "distance": 8516.400390625,
+    "elevation_gain": 19.050000000745058,
+    "id": "24387320277",
+    "moving_time": 2532.6929931640625,
+    "name": "Gosport Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-09-16T18:26:05",
+    "type": "Run",
+    "year": 2026
   }
 ]
