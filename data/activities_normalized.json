@@ -17494,5 +17494,18 @@
     "start_date_local": "2026-09-16T18:26:05",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-19",
+    "distance": 27122.099609375,
+    "elevation_gain": 520.3400000035763,
+    "id": "24421501218",
+    "moving_time": 11318.049011230469,
+    "name": "Winchester Trail Running",
+    "raw_activity_type": "trail_running",
+    "raw_type": "trail_running",
+    "start_date_local": "2026-09-19T11:53:14",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
