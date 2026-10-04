@@ -9484,6 +9484,13 @@
       "subtype": "golf",
       "type": "Golf",
       "year": 2026
+    },
+    {
+      "date": "2026-10-04",
+      "hour": 10,
+      "subtype": "road_biking",
+      "type": "Ride",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -20130,6 +20137,15 @@
           "distance": 25583.640625,
           "elevation_gain": 281.0,
           "moving_time": 3585.0
+        },
+        "2026-10-04": {
+          "activity_ids": [
+            "24605029883"
+          ],
+          "count": 1,
+          "distance": 85440.59375,
+          "elevation_gain": 1489.8199999928474,
+          "moving_time": 14388.942993164062
         }
       },
       "Run": {
@@ -20881,7 +20897,7 @@
       }
     }
   },
-  "generated_at": "2026-10-03T18:35:45.988138+00:00",
+  "generated_at": "2026-10-04T18:34:20.687489+00:00",
   "other_bucket": "OtherSports",
   "repo": "Stats-K9/git-sweaty",
   "source": "garmin",

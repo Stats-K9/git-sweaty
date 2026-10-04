@@ -17611,5 +17611,18 @@
     "start_date_local": "2026-10-03T13:16:47",
     "type": "Golf",
     "year": 2026
+  },
+  {
+    "date": "2026-10-04",
+    "distance": 85440.59375,
+    "elevation_gain": 1489.8199999928474,
+    "id": "24605029883",
+    "moving_time": 14388.942993164062,
+    "name": "Bristol Road Cycling",
+    "raw_activity_type": "road_biking",
+    "raw_type": "road_biking",
+    "start_date_local": "2026-10-04T10:36:00",
+    "type": "Ride",
+    "year": 2026
   }
 ]
