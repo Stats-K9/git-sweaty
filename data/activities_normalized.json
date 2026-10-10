@@ -17650,5 +17650,18 @@
     "start_date_local": "2026-10-08T20:47:04",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-10",
+    "distance": 40210.9296875,
+    "elevation_gain": 419.85000002384186,
+    "id": "24675857764",
+    "moving_time": 7122.0,
+    "name": "Fareham Road Cycling",
+    "raw_activity_type": "road_biking",
+    "raw_type": "road_biking",
+    "start_date_local": "2026-10-10T14:04:14",
+    "type": "Ride",
+    "year": 2026
   }
 ]
