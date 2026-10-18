@@ -17702,5 +17702,18 @@
     "start_date_local": "2026-10-14T17:01:04",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-10-18",
+    "distance": 16410.740234375,
+    "elevation_gain": 32.560000002384186,
+    "id": "24766365288",
+    "moving_time": 4165.6760177612305,
+    "name": "Portsmouth Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-10-18T10:41:53",
+    "type": "Run",
+    "year": 2026
   }
 ]
