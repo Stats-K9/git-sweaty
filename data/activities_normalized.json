@@ -17754,5 +17754,18 @@
     "start_date_local": "2026-10-23T17:18:07",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-10-24",
+    "distance": 10261.6201171875,
+    "elevation_gain": 56.11999999731779,
+    "id": "24832341978",
+    "moving_time": 2902.7710037231445,
+    "name": "Fareham Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-10-24T08:11:36",
+    "type": "Run",
+    "year": 2026
   }
 ]
