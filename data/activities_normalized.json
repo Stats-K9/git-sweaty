@@ -17793,5 +17793,18 @@
     "start_date_local": "2026-10-27T07:01:23",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-10-29",
+    "distance": 15656.1396484375,
+    "elevation_gain": 464.2099999934435,
+    "id": "24893363532",
+    "moving_time": 6711.0,
+    "name": "Derbyshire Dales Trail Running",
+    "raw_activity_type": "trail_running",
+    "raw_type": "trail_running",
+    "start_date_local": "2026-10-29T10:51:20",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
