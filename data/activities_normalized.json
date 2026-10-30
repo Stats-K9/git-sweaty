@@ -17806,5 +17806,31 @@
     "start_date_local": "2026-10-29T10:51:20",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-10-30",
+    "distance": 7961.68994140625,
+    "elevation_gain": 62.839999973773956,
+    "id": "24901696858",
+    "moving_time": 2450.3059997558594,
+    "name": "Newark and Sherwood Trail Running",
+    "raw_activity_type": "trail_running",
+    "raw_type": "trail_running",
+    "start_date_local": "2026-10-30T07:28:41",
+    "type": "TrailRun",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-30",
+    "distance": 12533.5498046875,
+    "elevation_gain": 445.20000000298023,
+    "id": "24905183184",
+    "moving_time": 9280.0,
+    "name": "Staffordshire Moorlands Hiking",
+    "raw_activity_type": "hiking",
+    "raw_type": "hiking",
+    "start_date_local": "2026-10-30T10:52:52",
+    "type": "Hike",
+    "year": 2026
   }
 ]
