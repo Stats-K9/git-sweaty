@@ -17832,5 +17832,18 @@
     "start_date_local": "2026-10-30T10:52:52",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-10-31",
+    "distance": 13514.349609375,
+    "elevation_gain": 127.75999999046326,
+    "id": "24917337103",
+    "moving_time": 4614.626998901367,
+    "name": "Newark and Sherwood Trail Running",
+    "raw_activity_type": "trail_running",
+    "raw_type": "trail_running",
+    "start_date_local": "2026-10-31T12:02:55",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
